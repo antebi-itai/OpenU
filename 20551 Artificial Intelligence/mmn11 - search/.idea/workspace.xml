@@ -1,0 +1,320 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="e13115b9-6cd3-4b03-bc3d-fcd35e768e3f" name="Default Changelist" comment="" />
+    <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileEditorManager">
+    <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
+      <file pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/../../mmn13/multiagent/multiAgents.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="147">
+              <caret line="313" column="11" lean-forward="true" selection-start-line="313" selection-start-column="11" selection-end-line="313" selection-end-column="11" />
+              <folding>
+                <element signature="n#!!doc" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/../../mmn13/multiagent/util.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="2910">
+              <caret line="99" selection-start-line="99" selection-end-line="99" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/../../mmn13/multiagent/pacman.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="4620">
+              <caret line="161" column="6" selection-start-line="161" selection-start-column="6" selection-end-line="161" selection-end-column="6" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/../../mmn13/multiagent/game.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="10740">
+              <caret line="360" column="44" selection-start-line="360" selection-start-column="33" selection-end-line="360" selection-end-column="44" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+    </leaf>
+  </component>
+  <component name="FindInProjectRecents">
+    <findStrings>
+      <find>WestA</find>
+      <find>YOUR CODE</find>
+      <find>manhattanHeuristic</find>
+      <find>cornersHeu</find>
+      <find>GameState</find>
+      <find>Scare</find>
+      <find>getGhostStates</find>
+      <find>.asList</find>
+      <find>999</find>
+      <find>Reflex</find>
+      <find>currentFood</find>
+      <find>BIGN</find>
+      <find>print</find>
+      <find>print moveStateScoreList[0][-1]</find>
+    </findStrings>
+  </component>
+  <component name="IdeDocumentHistory">
+    <option name="CHANGED_PATHS">
+      <list>
+        <option value="$PROJECT_DIR$/search.py" />
+        <option value="$PROJECT_DIR$/searchAgents.py" />
+        <option value="$PROJECT_DIR$/../../mmn13/multiagent/pacman.py" />
+        <option value="$PROJECT_DIR$/../../mmn13/multiagent/multiAgents.py" />
+      </list>
+    </option>
+  </component>
+  <component name="ProjectFrameBounds" extendedState="6">
+    <option name="width" value="1919" />
+    <option name="height" value="1038" />
+  </component>
+  <component name="ProjectView">
+    <navigator proportions="" version="1">
+      <foldersAlwaysOnTop value="true" />
+    </navigator>
+    <panes>
+      <pane id="ProjectPane" />
+      <pane id="Scope" />
+    </panes>
+  </component>
+  <component name="PropertiesComponent">
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/../../mmn13/multiagent" />
+    <property name="settings.editor.selected.configurable" value="editor.preferences.fonts.default" />
+  </component>
+  <component name="RunDashboard">
+    <option name="ruleStates">
+      <list>
+        <RuleState>
+          <option name="name" value="ConfigurationTypeDashboardGroupingRule" />
+        </RuleState>
+        <RuleState>
+          <option name="name" value="StatusDashboardGroupingRule" />
+        </RuleState>
+      </list>
+    </option>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="e13115b9-6cd3-4b03-bc3d-fcd35e768e3f" name="Default Changelist" comment="" />
+      <created>1553178819278</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1553178819278</updated>
+    </task>
+    <servers />
+  </component>
+  <component name="TodoView" selected-index="1">
+    <todo-panel id="selected-file">
+      <is-autoscroll-to-source value="true" />
+    </todo-panel>
+    <todo-panel id="all">
+      <are-packages-shown value="true" />
+      <is-autoscroll-to-source value="true" />
+    </todo-panel>
+  </component>
+  <component name="ToolWindowManager">
+    <frame x="-7" y="-7" width="1550" height="838" extended-state="6" />
+    <layout>
+      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.1559815" />
+      <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
+      <window_info id="Favorites" order="2" side_tool="true" />
+      <window_info anchor="bottom" id="Message" order="0" />
+      <window_info anchor="bottom" id="Find" order="1" weight="0.11809318" />
+      <window_info anchor="bottom" id="Run" order="2" />
+      <window_info anchor="bottom" id="Debug" order="3" weight="0.4" />
+      <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
+      <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
+      <window_info anchor="bottom" id="TODO" order="6" weight="0.1191766" />
+      <window_info anchor="bottom" id="Version Control" order="7" />
+      <window_info active="true" anchor="bottom" id="Terminal" order="8" visible="true" weight="0.23371105" />
+      <window_info anchor="bottom" id="Event Log" order="9" side_tool="true" />
+      <window_info anchor="bottom" id="Python Console" order="10" />
+      <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
+      <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
+      <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
+    </layout>
+  </component>
+  <component name="editorHistoryManager">
+    <entry file="file://$PROJECT_DIR$/game.py">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/util.py">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/searchAgents.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="440">
+          <caret line="486" column="49" selection-start-line="486" selection-start-column="49" selection-end-line="486" selection-end-column="49" />
+          <folding>
+            <element signature="e#1125#1152#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/search.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="500">
+          <caret line="117" column="72" selection-start-line="117" selection-start-column="32" selection-end-line="117" selection-end-column="72" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/pacman.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="299">
+          <caret line="161" column="6" selection-start-line="161" selection-start-column="6" selection-end-line="161" selection-end-column="6" />
+          <folding>
+            <element signature="e#2900#3178#0" />
+            <element signature="e#2900#2966#1" />
+            <element signature="e#3236#4255#0" />
+            <element signature="e#3236#3323#1" />
+            <element signature="e#3637#3748#0" />
+            <element signature="e#4298#4330#0" />
+            <element signature="e#4543#4740#0" />
+            <element signature="e#4543#4697#1" />
+            <element signature="e#4779#4824#0" />
+            <element signature="e#4860#4892#0" />
+            <element signature="e#4939#5103#0" />
+            <element signature="e#5153#5298#0" />
+            <element signature="e#5335#5390#0" />
+            <element signature="e#5424#5459#0" />
+            <element signature="e#5542#5648#0" />
+            <element signature="e#5542#5618#1" />
+            <element signature="e#5680#5709#0" />
+            <element signature="e#5736#5975#1" />
+            <element signature="e#6029#6291#0" />
+            <element signature="e#6029#6257#1" />
+            <element signature="e#6324#6351#0" />
+            <element signature="e#6384#6419#0" />
+            <element signature="e#6447#6469#0" />
+            <element signature="e#6496#6517#0" />
+            <element signature="e#6758#6974#0" />
+            <element signature="e#6758#6840#1" />
+            <element signature="e#7004#7084#0" />
+            <element signature="e#7119#7203#0" />
+            <element signature="e#7119#7168#1" />
+            <element signature="e#7233#7319#0" />
+            <element signature="e#7233#7290#1" />
+            <element signature="e#7349#7370#0" />
+            <element signature="e#7431#7562#0" />
+            <element signature="e#7431#7513#1" />
+            <element signature="e#8146#9794#0" />
+            <element signature="e#8146#8259#1" />
+            <element signature="e#8298#8320#0" />
+            <element signature="e#8429#8753#0" />
+            <element signature="e#8793#8948#0" />
+            <element signature="e#8793#8858#1" />
+            <element signature="e#8986#9093#0" />
+            <element signature="e#9132#9225#0" />
+            <element signature="e#9262#9332#0" />
+            <element signature="e#9380#9468#0" />
+            <element signature="e#9515#9534#0" />
+            <element signature="e#9583#9602#0" />
+            <element signature="e#9652#9671#0" />
+            <element signature="e#9717#9736#0" />
+            <element signature="e#9786#9794#0" />
+            <element signature="e#9817#9925#1" />
+            <element signature="e#9980#10134#0" />
+            <element signature="e#9980#10031#1" />
+            <element signature="e#10228#10875#0" />
+            <element signature="e#10228#10297#1" />
+            <element signature="e#10818#10875#0" />
+            <element signature="e#11296#11356#0" />
+            <element signature="e#11424#11670#0" />
+            <element signature="e#11728#14725#0" />
+            <element signature="e#11728#11807#1" />
+            <element signature="e#11874#12430#0" />
+            <element signature="e#11874#12008#1" />
+            <element signature="e#12536#12956#0" />
+            <element signature="e#13041#13221#0" />
+            <element signature="e#13315#13966#0" />
+            <element signature="e#13429#13719#0" />
+            <element signature="e#13493#13719#0" />
+            <element signature="e#13736#13966#0" />
+            <element signature="e#14061#14391#0" />
+            <element signature="e#14098#14281#0" />
+            <element signature="e#14298#14391#0" />
+            <element signature="e#14330#14391#0" />
+            <element signature="e#14481#14561#0" />
+            <element signature="e#14640#14683#0" />
+            <element signature="e#14838#14873#0" />
+            <element signature="e#14902#15096#0" />
+            <element signature="e#14989#15082#0" />
+            <element signature="e#15125#20581#0" />
+            <element signature="e#15125#15200#1" />
+            <element signature="e#15250#15581#0" />
+            <element signature="e#19072#19199#0" />
+            <element signature="e#19365#19461#0" />
+            <element signature="e#19676#19745#0" />
+            <element signature="e#19779#19895#0" />
+            <element signature="e#19908#20028#0" />
+            <element signature="e#20310#20566#0" />
+            <element signature="e#20620#21495#0" />
+            <element signature="e#20942#21413#0" />
+            <element signature="e#21104#21413#0" />
+            <element signature="e#21237#21413#0" />
+            <element signature="e#21545#22134#0" />
+            <element signature="e#21881#22112#0" />
+            <element signature="e#22257#23563#0" />
+            <element signature="e#22400#23079#0" />
+            <element signature="e#22450#22583#0" />
+            <element signature="e#22602#22651#0" />
+            <element signature="e#22817#23079#0" />
+            <element signature="e#23104#23547#0" />
+            <element signature="e#23594#23932#0" />
+            <element signature="e#23594#23770#1" />
+            <element signature="e#23869#23886#0" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/../../mmn13/multiagent/multiAgents.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="147">
+          <caret line="313" column="11" lean-forward="true" selection-start-line="313" selection-start-column="11" selection-end-line="313" selection-end-column="11" />
+          <folding>
+            <element signature="n#!!doc" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/../../mmn13/multiagent/util.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="2910">
+          <caret line="99" selection-start-line="99" selection-end-line="99" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/../../mmn13/multiagent/pacman.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="4620">
+          <caret line="161" column="6" selection-start-line="161" selection-start-column="6" selection-end-line="161" selection-end-column="6" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/../../mmn13/multiagent/game.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="10740">
+          <caret line="360" column="44" selection-start-line="360" selection-start-column="33" selection-end-line="360" selection-end-column="44" />
+        </state>
+      </provider>
+    </entry>
+  </component>
+</project>
